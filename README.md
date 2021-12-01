@@ -1,1 +1,3 @@
 senzo please work on the sign in , its both on the index and in the sign_in.php file...
+Alright my dear consider it done but i have a question why don't we delete sign in page? coz it is just a code redundancy. 
+I will have to link every  process that was linked to sign in page but i will have to do it in an index page so that it works properly
