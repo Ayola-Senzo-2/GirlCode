@@ -18,9 +18,9 @@ if(isset($_POST['cell'])){
 		if($num_rows == 1){
 
 			$_SESSION['cell'] = $data['adminPhone'];
-			$_SESSION['password'] = $data['adminPassword'];
+			
 					  
-			header("Location: sign_up.php");
+			header("Location: addTrip.php");
 				 
 		 }else{
 			 echo("username or password is incorrect");
